@@ -36,6 +36,14 @@ h1 {
   text-align: center;
  }
 
+
+ .question-heading {
+
+    font-size: 2em;
+    text-align: start;
+
+ }
+
 /*
 Navigation
 */
