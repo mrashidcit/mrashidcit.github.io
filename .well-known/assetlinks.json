@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.uos.socialhub",
+    "package_name": "com.techinnovatives.milkmanapp",
     "sha256_cert_fingerprints":
-    ["5E:BE:C4:85:BD:73:30:A8:76:93:BC:FB:47:6F:59:CE:D1:74:D2:29:46:67:F2:25:D2:0B:AD:44:ED:BF:A4:90"]
+    ["84:43:52:D9:E4:EF:42:5E:65:F4:BA:20:AA:4C:68:43:FC:DF:08:95:32:AA:0F:71:34:3B:41:32:01:07:D5:4B"]
   }
 }]
