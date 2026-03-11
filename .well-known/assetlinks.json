@@ -1,9 +1,1 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.rashid.saleem.navigationincompose",
-    "sha256_cert_fingerprints":
-    ["7D:1F:29:72:7B:96:90:13:B4:5D:E3:1C:D6:A9:D2:9C:BC:38:19:90:47:D5:5F:0A:FA:A1:71:4F:63:71:CA:D2"]
-  }
-}]
+
